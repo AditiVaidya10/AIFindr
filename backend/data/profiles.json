@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Tara",
+      "bio": "Yoga teacher who loves storytelling and philosophical cinema",
+      "interests": ["yoga", "films", "books"]
+    },
+    {
+      "name": "Dev",
+      "bio": "Software engineer into stoic philosophy, chess, and synthwave music",
+      "interests": ["philosophy", "chess", "music"]
+    },
+    {
+      "name": "Aarya",
+      "bio": "Startup founder exploring art, absurdism, and hiking",
+      "interests": ["art", "absurdism", "nature"]
+    }
+  ]
